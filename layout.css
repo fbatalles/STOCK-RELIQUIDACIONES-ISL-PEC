@@ -1,0 +1,2 @@
+.kpis{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}.kpi-caption{display:block;margin-top:4px;color:#758398;font-size:11px}
+@media(max-width:700px){.kpis{grid-template-columns:1fr 1fr}}
